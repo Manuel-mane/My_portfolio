@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Manuel Mane Penton</title>
+    <link>https://manuel-mane.github.io/My_portfolio/post/</link>
+    <description>Recent content in Projects on Manuel Mane Penton</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Nov 2020 19:47:09 +0200</lastBuildDate><atom:link href="https://manuel-mane.github.io/My_portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Twitter WeRateDogs Data Analysis</title>
+      <link>https://manuel-mane.github.io/My_portfolio/post/weratedogs_project/</link>
+      <pubDate>Sun, 01 Nov 2020 19:47:09 +0200</pubDate>
+      
+      <guid>https://manuel-mane.github.io/My_portfolio/post/weratedogs_project/</guid>
+      <description>Github Link
+This project is part of the Data Wrangling Lesson of Udacity Data Analyst Nanodegree Program.
+Data Wrangling is a core skills that everyone who works with data should be familiar since data real world data rarely comes clean. In this project I use and apply Python libraries to gather data from a variety of sources and in variety of formats, assess its quality and tidiness, and then clean it.</description>
+    </item>
+    
+    <item>
+      <title>Domestic Flights Delay</title>
+      <link>https://manuel-mane.github.io/My_portfolio/post/domestic_flight_visualization-project/</link>
+      <pubDate>Thu, 01 Oct 2020 19:47:09 +0200</pubDate>
+      
+      <guid>https://manuel-mane.github.io/My_portfolio/post/domestic_flight_visualization-project/</guid>
+      <description>GitHub Link
+This project is part of the Data Visualization Lesson of Udacity Data Analyst Nanodegree Program.
+Data Visualization is an important and core skill in the data analysis process. In this project I perform both Exploratory and Explanatory Visualization Analysis on the Domestic Flight On-time arrival data from the Bureau of Transportation Statistic Website. This dataset consisted of 285 159 observations per month, year, carrier, and airports of arrival domestic flights.</description>
+    </item>
+    
+  </channel>
+</rss>
