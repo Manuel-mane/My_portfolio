@@ -3,15 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://manuel-mane.github.io/My_portfolio/post/europe_football_database_project/</loc>
+    <lastmod>2020-11-30T19:47:09+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://manuel-mane.github.io/My_portfolio/</loc>
-    <lastmod>2020-11-01T19:47:09+02:00</lastmod>
+    <lastmod>2020-11-30T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://manuel-mane.github.io/My_portfolio/post/</loc>
-    <lastmod>2020-11-01T19:47:09+02:00</lastmod>
+    <lastmod>2020-11-30T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

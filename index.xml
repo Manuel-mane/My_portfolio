@@ -6,7 +6,19 @@
     <description>Recent content in Personal Portfolio on Manuel Mane Penton</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Nov 2020 19:47:09 +0200</lastBuildDate><atom:link href="https://manuel-mane.github.io/My_portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Nov 2020 19:47:09 +0200</lastBuildDate><atom:link href="https://manuel-mane.github.io/My_portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Football Database Analysis</title>
+      <link>https://manuel-mane.github.io/My_portfolio/post/europe_football_database_project/</link>
+      <pubDate>Mon, 30 Nov 2020 19:47:09 +0200</pubDate>
+      
+      <guid>https://manuel-mane.github.io/My_portfolio/post/europe_football_database_project/</guid>
+      <description>Github Link
+In this project I analyze the most popular European Football leagues and their teams and players. For this purpose, I use a SQLite database from Kaggle and apply exploratory data analysis using SQLite in order to extract insights. This analysis is entirely done in Jupyter Notebooks.
+The database is composed by 199 columns and more than 1000k rows distributed in 7 different tables.
+Purpose The main question I answer through this analysis is what attributes or playstyle contribute more to the victory of a team?</description>
+    </item>
+    
     <item>
       <title>Twitter WeRateDogs Data Analysis</title>
       <link>https://manuel-mane.github.io/My_portfolio/post/weratedogs_project/</link>
